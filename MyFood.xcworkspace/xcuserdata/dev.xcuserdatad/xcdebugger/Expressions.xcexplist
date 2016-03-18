@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[CategoryViewController viewWillAppear:]:CategoryViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.restaurantsToRate">
+            </PersistentString>
+            <PersistentString
+               value = "_orderedKeys">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CollectionViewController viewDidLoad]:CollectionViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__36-[SwipeViewController getBusinesses]_block_invoke:SwipeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_restaurants">
+            </PersistentString>
+            <PersistentString
+               value = "responseObject">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[FilterTableVC addSearchOptions:value:]:FilterTableVC.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[SwipeViewController viewWillDisappear:]:SwipeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_currentRestaurant">
+            </PersistentString>
+            <PersistentString
+               value = "_frontCardView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CategoryViewController searchBarCancelButtonClicked:]:CategoryViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[CategoryViewController setupSearchOptions]:CategoryViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__55-[CategoryViewController getBusinesses_for_getCategory]_block_invoke:CategoryViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "strCategory">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[RestaurantDetailViewController viewDidLoad]:RestaurantDetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_coord">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CollectionViewController prepareForSegue:sender:]:CollectionViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "index">
+            </PersistentString>
+            <PersistentString
+               value = "_restaurantsToRate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CategoryViewController getLocationInfo]:CategoryViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_currentLocation">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[FilterTableVC tableView:cellForRowAtIndexPath:]:FilterTableVC.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_selectedCategoryOption">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CategoryViewController searchBarTextDidBeginEditing:]:CategoryViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.defaultZipCode">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__62-[CategoryViewController getRestOfBusinesses_for_getCategory:]_block_invoke:CategoryViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.restaurants">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SwipeViewController presentInitialCards]:SwipeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_frontCardView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SwipeViewController check3DTouch]:SwipeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_frontCardView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SwipeViewController view:wasChosenWithDirection:]:SwipeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_currentRestaurant">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CollectionViewController viewWillAppear:]:CollectionViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_restaurantsToRate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SwipeViewController viewDidLoad]:SwipeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.currentLocation">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SwipeViewController popPersonViewWithFrame:]:SwipeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_restaurants">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CategoryViewController searchBarSearchButtonClicked:]:CategoryViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_defaultZipCode">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:main.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[DetailEmbedTableViewController viewDidLoad]:DetailEmbedTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_restaurant">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CategoryViewController viewDidLoad]:CategoryViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_currentLocation">
+            </PersistentString>
+            <PersistentString
+               value = "_restaurantsRated">
+            </PersistentString>
+            <PersistentString
+               value = "self.defaultZipCode">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CategoryViewController collectionView:numberOfItemsInSection:]:CategoryViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.restaurantsToRate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CategoryViewController getBusinesses_for_getCategory_Location]:CategoryViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_currentLocation">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SwipeViewController viewWillAppear:]:SwipeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_currentRestaurant">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
